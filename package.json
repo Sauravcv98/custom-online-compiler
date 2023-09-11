@@ -1,0 +1,19 @@
+{
+  "name": "custom-online-compiler",
+  "version": "1.0.0",
+  "description": "This is an online compiler which can be customised by the inputs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sauravcv98/custom-online-compiler.git"
+  },
+  "author": "Saurav C.V",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sauravcv98/custom-online-compiler/issues"
+  },
+  "homepage": "https://github.com/Sauravcv98/custom-online-compiler#readme"
+}
